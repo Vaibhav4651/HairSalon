@@ -1,0 +1,154 @@
+.nav{
+    margin-top: 10px;
+    display: flex;
+    margin: 0%;
+}
+
+.lakme{
+    font-weight: bolder;
+    font-size: 20pt;
+    margin: 20px;
+    cursor: pointer;
+        
+}
+
+.list{
+    margin: 15px;
+    list-style-type: none;
+    display: flex;
+    padding-left:45%;
+    padding-top: 0.6%;
+    cursor: pointer;
+}
+.list li{
+    margin-right: 14px;
+    font-size: 120%;
+}
+.list li a{
+    text-decoration: none;
+    color: black;
+}
+.list li a:hover{
+    color: #bca857;
+}
+
+.booknow{
+    border-radius: 25pt;
+    width: 110pt;
+    height: 38pt;
+    margin-top: 7pt;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.booknow:hover{
+    background-color: #bca858;
+    color: white;
+    transition-duration: 700ms;
+
+}
+.d1{
+    height: 400px;
+    width: 1000px;
+    border-radius: 30px;
+    border: 2px solid;
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    
+}
+.img1{
+    border-radius: 25px;
+    height: 400px;
+    width: 300px;
+    
+}
+.p1{
+    font-size: x-large;
+    margin-left: 50px;
+    padding-top: 35px;
+}
+.d2{
+    height: 400px;
+    width: 1000px;
+    border-radius: 30px;
+    margin-bottom: 100px;
+    border: 2px solid;
+    margin-top: 100px;
+    margin-left: 400px;
+    display: flex;
+}
+.img2{
+    /*margin-top: 80px;*/
+    height: 400px;
+    width: 330px;
+    border-radius: 25px;
+    position: relative;
+    left: 670px;
+}
+.p2{
+    font-size: x-large;
+    margin-left: -330px;
+    padding-top: 35px;
+    padding-left: 30px;
+}
+footer{
+    background-color: #D4DCC1;
+    height: 270pt;
+}
+.div9{
+    margin-top: 3%;
+    font-size: larger;
+    margin-left: 15%;
+    display:inline-flex;
+}
+.div10{
+    font-family:"Open Sans", sans-serif;
+    font-size: 115%;
+    margin-top: 1%;
+    display: inline-flex;
+    opacity: 0.8;
+    margin-left: -75px;
+
+}
+
+.div11{
+    display:inline-flex;
+    margin-left: 7%;
+}
+
+.p6{
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.p7{
+    line-height: 1.7;
+
+    word-spacing:10%;
+    margin-top: 11%;
+    margin-left: -40%;
+    font-size: large;
+}
+.div12{
+    display: inline-flex;
+}
+.div13{
+    display: inline-flex;
+    font-size: 18px;
+    margin-left: -75px;
+}
+
+.p8{
+    font-size: 150%;
+    font-weight: bold;
+    margin-left:-22pt;
+}
+
+.p9{
+    line-height: 2.0;
+    font-size: 100%;
+    margin-top: 10px;
+    margin-left: -45px;
+}

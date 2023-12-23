@@ -1,0 +1,358 @@
+body{
+    margin: 0% 0%;
+}
+.head{
+    padding: 1.5%;
+    background-color: black;
+    display: flex ;
+    margin: 0px 0px;
+}
+
+.h1{
+    margin-bottom: 0;
+    font-size: 20px;
+    color: #ffffff;
+    display: flex;
+}
+
+.day{
+    color: #ffffff;
+    font-size: 20px;
+    display: flex;
+    text-align: right;
+    margin-left: 62%;
+    
+}
+
+.nav{
+    margin-top: 10px;
+    display: flex;
+    margin: 0%;
+}
+
+.lakme{
+    font-weight: bolder;
+    font-size: 20pt;
+    margin: 20px;
+    cursor: pointer;
+        
+}
+
+.list{
+    margin: 15px;
+    list-style-type: none;
+    display: flex;
+    padding-left:45%;
+    padding-top: 0.6%;
+    cursor: pointer;
+}
+
+
+.list li{
+    margin-right: 14px;
+    font-size: 120%;
+}
+.list li a{
+    text-decoration: none;
+    color: black;
+}
+.list li a:hover{
+    color: #bca857;
+}
+
+.booknow{
+    border-radius: 25pt;
+    width: 110pt;
+    height: 38pt;
+    margin-top: 7pt;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.booknow:hover{
+    background-color: #bca858;
+    color: white;
+    transition-duration: 700ms;
+
+}
+.sec1{
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+    
+}
+
+.p2{
+    color: #ffffff;
+    font-size: 25px;
+    
+    padding-left: 8%;
+    padding-right:45% ;
+}
+.sec2{
+    height: 450px;
+    
+}
+.about{
+    font-size: larger;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color:#ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+ .about:hover{
+    background-color: #bca858;
+    color: #ffffff;
+    transition-duration: 800ms;
+ }
+
+.p3{
+    margin: 0px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.p4{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+.box1{
+    display: inline-flex;
+    padding-top: 0% ;
+    padding-bottom: 4% ;
+    padding-left: 4.5%;
+    border-style: solid;
+    width: 10%;  
+    margin-left: 9%;
+    font-size: 25px;
+    background-image: url("img/hair_brush.jpg");
+    background-repeat: no-repeat;
+    background-size: 170px;
+    background-position: bottom;
+    height: 130px;   
+}
+
+.box2{
+    display: inline-flex;
+    padding-top: 0% ;
+    padding-bottom: 4% ;
+    padding-left: 4.5%;
+    border-style: solid;
+    width: 10%;  
+    margin-left: 9%;
+    font-size: 25px;
+    background-image: url("img/haircut.jpg");
+    background-repeat: no-repeat;
+    background-size: 110px;
+    background-position: 50px;
+    height: 130px;   
+}
+.box3{
+    display: inline-flex;
+    padding-top: 0% ;
+    padding-bottom: 4% ;
+    padding-left: 4.5%;
+    border-style: solid;
+    width: 10%;  
+    margin-left: 9%;
+    font-size: 25px;
+    background-image: url("img/hair_style.jpg");
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: bottom;
+    height: 130px;   
+}
+.box4{
+    display: inline-flex;
+    padding-top: 0% ;
+    padding-bottom: 4% ;
+    padding-left: 4.5%;
+    border-style: solid;
+    width: 10%;  
+    margin-left: 9%;
+    font-size: 25px;
+    
+    background-image: url("img/facial.jpg");
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: bottom;
+    height: 130px;   
+}
+
+.box1:hover{
+    color: rgb(24, 245, 20);
+}
+ 
+.box2:hover{
+    color: rgb(24, 245, 20);
+}
+.box3:hover{
+    color: rgb(24, 245, 20);
+}
+.box4:hover{
+    color: rgb(24, 245, 20);
+}
+
+.sec3{
+    margin: 0px;
+    height: 360pt;
+    background-color: rgb(246, 241, 234);
+    
+}
+
+.image{
+   margin-left: 6%;  
+   margin-top: 6%;
+   border-radius: 4px;
+   display: inline-flex;
+}
+.h2{
+    font-size:160%;
+    display: inline-flex;
+    vertical-align: top;
+    margin-top: 5%;
+    margin-left: 10%;
+
+}
+.choose{
+    display: inline-flex;
+    font-size: 100%;
+    vertical-align: 240px;
+    margin-left: 580pt;
+    margin-top: -210pt;
+}
+.ul_li{
+   
+    font-size: larger;
+    list-style-type:square;
+}
+
+.ul_li li{
+    margin-top: 25pt;
+}
+
+.sec4{
+    background-color: #e6e6eb;
+    height: 330pt;
+    background-image: url("img/img3.jpg");
+    background-repeat: no-repeat;
+    background-position:right;
+}
+
+.p5{
+    font-size: 35pt;
+    font-weight: 500;
+    margin-top: 15%;
+    margin-left: 27%;
+}
+
+.div6{
+    width: 40%;
+    display: inline-flex;    
+}
+
+.div7{
+    font-size: 120%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 11%;
+    margin-top: -3%;
+}
+
+.button1{
+    background-color: #bca858;
+    border-style: none;
+    color: #ffffff;
+    height: 35pt;
+    width: 190pt;
+    border-radius: 25pt;
+    margin-top: 25pt;
+    margin-left: 122pt;
+    font-size:13pt;
+    font-family:"Playfair Display", serif;
+    cursor: pointer;
+
+}
+
+.button2{
+    background-color: #ffffff;
+    border-radius:25pt;
+    height: 35pt;
+    width: 80pt;
+    font-size:13pt;
+    font-family:"Playfair Display", serif;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: rgb(2, 26, 1);
+    transition-duration: 800ms;
+}
+
+.button2:hover{
+    background-color: #bca858;
+    color: #ffffff;
+    transition-duration: 800ms;
+
+}
+footer{
+    background-color: #D4DCC1;
+    height: 270pt;
+}
+.div9{
+    margin-top: 3%;
+    font-size: larger;
+    margin-left: 15%;
+    display:inline-flex;
+}
+.div10{
+    font-family:"Open Sans", sans-serif;
+    font-size: 115%;
+    margin-top: 1%;
+    display: inline-flex;
+    opacity: 0.8;
+    margin-left: -75px;
+
+}
+
+.div11{
+    display:inline-flex;
+    margin-left: 7%;
+}
+
+.p6{
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.p7{
+    line-height: 1.7;
+
+    word-spacing:10%;
+    margin-top: 11%;
+    margin-left: -40%;
+    font-size: large;
+}
+.div12{
+    display: inline-flex;
+}
+.div13{
+    display: inline-flex;
+    font-size: 18px;
+    margin-left: -75px;
+}
+
+.p8{
+    font-size: 150%;
+    font-weight: bold;
+    margin-left:-22pt;
+}
+
+.p9{
+    line-height: 2.0;
+    font-size: 100%;
+    margin-top: 10px;
+    margin-left: -45px;
+}

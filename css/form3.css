@@ -1,0 +1,116 @@
+
+body{
+    background-image: linear-gradient(90deg ,rgb(74, 74, 222),rgb(222, 95, 222) );
+}
+.main{
+    border: 2px solid;
+    width: 25%;
+    height: 40%;
+    border-radius: 10px;
+    margin: 0px auto;
+    margin-top: 6%;
+    background-color: white;
+}
+.d1{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*hr{
+    border: 1px solid;
+}*/
+.d2{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.i1{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 18px;
+    padding-bottom: 5px;
+    font-family: serif;
+}
+.d3{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.d4{
+    margin-left: 50px;
+    margin-top: 25px;
+    font-family: serif;
+}
+.i2{
+    margin-left: 50px;
+    margin-top: 25px;
+    height: 40px;
+    width: 275px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+.d5{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.nav{
+    margin-top: 10px;
+    display: flex;
+    margin: 0%;
+}
+
+.lakme{
+    font-weight: bolder;
+    font-size: 20pt;
+    margin: 20px;
+    cursor: pointer;
+        
+}
+
+.list{
+    margin: 15px;
+    list-style-type: none;
+    display: flex;
+    padding-left:45%;
+    padding-top: 0.6%;
+    cursor: pointer;
+}
+
+
+.list li{
+    margin-right: 14px;
+    font-size: 120%;
+}
+.list li a{
+    text-decoration: none;
+    color: black;
+}
+.list li a:hover{
+    color: #bca857;
+}
+
+.booknow{
+    border-radius: 25pt;
+    width: 110pt;
+    height: 38pt;
+    margin-top: 7pt;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.booknow:hover{
+    background-color: #bca858;
+    color: white;
+    transition-duration: 700ms;
+
+}     
+.s1{
+    width: 100%;
+    background-color: white;
+    border-radius: 20px;
+}       
